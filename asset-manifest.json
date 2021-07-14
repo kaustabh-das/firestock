@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firestock/static/css/main.cbedd471.chunk.css",
+    "main.js": "/firestock/static/js/main.3d31bc78.chunk.js",
+    "main.js.map": "/firestock/static/js/main.3d31bc78.chunk.js.map",
+    "runtime-main.js": "/firestock/static/js/runtime-main.8fce7505.js",
+    "runtime-main.js.map": "/firestock/static/js/runtime-main.8fce7505.js.map",
+    "static/js/2.48da02c0.chunk.js": "/firestock/static/js/2.48da02c0.chunk.js",
+    "static/js/2.48da02c0.chunk.js.map": "/firestock/static/js/2.48da02c0.chunk.js.map",
+    "index.html": "/firestock/index.html",
+    "static/css/main.cbedd471.chunk.css.map": "/firestock/static/css/main.cbedd471.chunk.css.map",
+    "static/js/2.48da02c0.chunk.js.LICENSE.txt": "/firestock/static/js/2.48da02c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fce7505.js",
+    "static/js/2.48da02c0.chunk.js",
+    "static/css/main.cbedd471.chunk.css",
+    "static/js/main.3d31bc78.chunk.js"
+  ]
+}
